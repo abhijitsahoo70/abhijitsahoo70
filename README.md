@@ -2,9 +2,10 @@
 👨‍💻 Software Developer in Progress<br>🎓 B.Tech CSE (AI & ML)<br>💡 Interested in AI, Machine Learning & Full-Stack Development<br>⚡ Java | Python | C | HTML | CSS | JavaScript | SQL<br>🌱 Currently exploring new technologies
 
 
-## 🌐 Socials: 
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-sahoo-626bb832b/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/abhijitsahoo70)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/abhijitsahoo70)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abhijit.sahoo.7000)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhijitsahoo424/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahooabhijit281@gmail.com)
